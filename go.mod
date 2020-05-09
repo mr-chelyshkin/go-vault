@@ -1,4 +1,4 @@
-module vault
+module github.com/mr-chelyshkin/go-vault
 
 go 1.14
 
